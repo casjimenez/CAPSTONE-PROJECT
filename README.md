@@ -9,24 +9,23 @@ The current network at City College of San Fernando suffers from poor Wi-Fi cove
 
 ## Key Objectives
 
-- To assess the current network coverage and identify weak spots within the campus.
-- To propose a network design that enhances Wi-Fi coverage and ensures efficient bandwidth distribution.
-- To implement a scalable network plan with improved security, manageability, and performance.
-- To validate the proposed solution through expert evaluation and feedback.
+● Assess the campus’ present network infrastructure and determine optimal access point
+locations.
+● Design and simulate a scalable and secure wireless network for the campus.
+● Analyze the network’s performance, security, and expert feedback to establish
+reliability and efficiency.
 
-## My Role
+## Role
 
-In this capstone project, I served as the **lead researcher and manuscript organizer**. My responsibilities included:
+In this capstone project, I served as the **lead researcher and manuscript organizer**.
 
-- **Documentation (Lead):** Oversaw the structure, writing, and final compilation of the manuscript.
-- **Network Design (Contributor):** Helped in creating the optimized network layout and configuration plan.
-- ⚙**Testing & Analysis (Contributor):** Participated in expert consultation, evaluation data collection, and analysis to validate the efficiency of the proposed infrastructure.
+I was the lead researcher who took charge of the paper’s progress by organizing and structuring the manuscript to ensure clarity and orderliness. I played a key role in coordinating research efforts, analyzing data, and refining the final documentation to maintain the study’s quality and accuracy. My leadership ensured that all sections aligned with the study’s objectives and met the required academic standards.
 
 ## Tools & Technologies Used
 
-- Ubiquiti UniFi Controller
-- Ubiquiti Design UI for Heat Mapping
-- EVE-NG
-- iPerf
+● Ubiquiti UniFi Controller
+● Ubiquiti Design UI for Heat Mapping
+● EVE-NG
+● iPerf
 
 ###
