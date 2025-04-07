@@ -9,10 +9,9 @@ The current network at City College of San Fernando suffers from poor Wi-Fi cove
 
 ## Key Objectives
 
-- To assess the current network coverage and identify weak spots within the campus.
-- To propose a network design that enhances Wi-Fi coverage and ensures efficient bandwidth distribution.
-- To implement a scalable network plan with improved security, manageability, and performance.
-- To validate the proposed solution through expert evaluation and feedback.
+- Assess the campus’ present network infrastructure and determine optimal access point
+- Design and simulate a scalable and secure wireless network for the campus.
+- Analyze the network’s performance, security, and expert feedback to establish reliability and efficiency.
 
 ## Role
 
@@ -22,9 +21,9 @@ I was the lead researcher who took charge of the paper’s progress by organizin
 
 ## Tools & Technologies Used
 
-● Ubiquiti UniFi Controller
-● Ubiquiti Design UI for Heat Mapping
-● EVE-NG
-● iPerf
+- Ubiquiti UniFi Controller
+- Ubiquiti Design UI for Heat Mapping
+- EVE-NG
+- iPerf
 
 ###
